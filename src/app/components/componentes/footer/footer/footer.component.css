@@ -1,0 +1,9 @@
+
+.footer {
+  position: fixed;
+  bottom: 0;
+}
+
+footer.custom-bg {
+  background-color: #8EAA82 !important;
+}
